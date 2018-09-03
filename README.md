@@ -2,4 +2,4 @@ Weather Application developed in Javascript using Open Weather Map (OWM API) to 
 
 #Live Demo
 
-[demo](https://conorholmes.com/WeatherNow/)
+[Demo](https://conorholmes.com/WeatherNow/)
